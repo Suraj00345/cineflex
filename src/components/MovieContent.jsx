@@ -66,7 +66,7 @@ const MovieContent = () => {
           title="Popular Movies"
           subtitle="Most Watched movies right now"
           movies={popularMovies}
-          id="Popular"
+          id="popular"
         />
 
         <GenreSection />

@@ -93,7 +93,7 @@ const Navbar = () => {
               Home
             </a>
             <a
-              href="#tranding"
+              href="#trending"
               className="text-white hover:text-purple-400 transition-all font-medium"
             >
               Tranding
